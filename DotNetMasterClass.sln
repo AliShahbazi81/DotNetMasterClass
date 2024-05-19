@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetMasterClass", "DotNetMasterClass\DotNetMasterClass.csproj", "{8C221726-1007-41A6-A108-9B0A3AD4B8DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{367240C3-4C04-4278-9ADB-B31E031D3A65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{8C221726-1007-41A6-A108-9B0A3AD4B8DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C221726-1007-41A6-A108-9B0A3AD4B8DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C221726-1007-41A6-A108-9B0A3AD4B8DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{367240C3-4C04-4278-9ADB-B31E031D3A65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{367240C3-4C04-4278-9ADB-B31E031D3A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{367240C3-4C04-4278-9ADB-B31E031D3A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{367240C3-4C04-4278-9ADB-B31E031D3A65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
