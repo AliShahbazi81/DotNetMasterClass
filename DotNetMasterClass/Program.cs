@@ -4,6 +4,7 @@ using DotNetMasterClass.Services;
 
 var integers = ReadIntegers.ReadInts("10KIntegers.txt").ToArray();
 
+
 var watch = new Stopwatch();
 
 watch.Start();
